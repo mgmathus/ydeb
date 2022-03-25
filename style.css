@@ -1,0 +1,14 @@
+body{
+    background-color: rgb(67, 7, 124);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.answer{
+    font-size: 30vw;
+    color: #ffffff;
+    position:relative;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    display: flex;
+}
